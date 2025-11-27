@@ -31,7 +31,7 @@ The simulation compares the VFD soft-starter against a standard DOL start:
 ![DOL Circuit](DOL.png)
 ![VFD Circuit](VFD.png)
 
-![DOL Result](SPEEDVSCURRENTWITHOUTVFD.png)
+![DOL Result](SPEED%20VS%20CURRENT%20WITHOUT%20VFD.png)
 
 ### Direct-On-Line (DOL) Results
 
@@ -43,7 +43,7 @@ The stator current shows a very large inrush spike at the moment of startup, rea
 
 ---
 
-![VFD Result](SPEED-VS-CURRENT-WITH-VFD.png)
+![VFD Result](SPEED%20VS%20CURRENT%20WITH%20VFD.png)
 
 ### VFD Soft-Starting Results
 
