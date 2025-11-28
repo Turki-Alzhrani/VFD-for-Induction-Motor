@@ -1,7 +1,6 @@
 # VFD-for-Indction-motor
 analyze three-phase induction motor using a Variable Frequency Drive (VFD) and to measure and compare the starting current and torque characteristics of the motor with and without the VFD soft-start system.
 
-Here is a concise, professional version of the README. It gets straight to the point while keeping all the technical details.
 
 ---
 
